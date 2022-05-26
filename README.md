@@ -46,3 +46,9 @@ for CSV results path - src\testresults\github_result (For Git task)
 ![image](https://user-images.githubusercontent.com/64305836/170579362-ad3b5a4b-6379-4c59-834d-8ee9942147de.png)
 
 
+If you get any issue while importing framework eg. directory issue then mark that directory as the source directory 
+
+Please check this screenshot for more information 
+
+![image](https://user-images.githubusercontent.com/64305836/170581132-52a16d7b-7313-431d-9fbf-725ef2395c1d.png)
+
