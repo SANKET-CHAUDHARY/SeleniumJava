@@ -16,9 +16,13 @@ Primary Configuration:  Command line
 ![image](https://user-images.githubusercontent.com/64305836/170577026-3a1ed674-3a7d-4220-affb-cf24ec473540.png)
 
 -Dusername=abandonedrhinoceros@maildrop.cc
+
 -Dpassword=P@$$W0rd
+
 -Durl=mytheresa.com/en-de/men.html
+
 -Dbrowser=chrome
+
 -Denv=local
 
 Secondery Configration : Properties File
