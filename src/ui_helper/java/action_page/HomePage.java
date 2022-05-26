@@ -43,7 +43,6 @@ public class HomePage extends HomeLocatorPage {
 
             respCode = huc.getResponseCode();
 
-            System.out.println(link+" "+ respCode);
             if (respCode >= 200 && respCode < 400) {
                 flag = true;
             }
@@ -56,7 +55,6 @@ public class HomePage extends HomeLocatorPage {
         }catch (Exception e) {
             e.printStackTrace();
         }
-        System.out.println(flag);
 
         return flag;
     }

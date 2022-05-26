@@ -3,11 +3,12 @@ package testcases;
 import basetest.BaseTest;
 import git_helper.GitHelper;
 import org.testng.annotations.*;
+import testlistener.TestListener;
 
+@Listeners(TestListener.class)
 public class Test3 extends BaseTest {
     /***************************************************************************
      * @TestCaseTitle Get all open PR request and store in CSV File
-     * @Steps
      *
      * @author  Sanket Chaudhari
      * @version 1.0
