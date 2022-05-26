@@ -38,7 +38,9 @@ user can run the test case by going to the test class or running the testing.xml
 
 
 Test Result reporting ->
+
 for extent report Path - src\testresults\testreport (For TestNG results)
+
 for CSV results path - src\testresults\github_result (For Git task)
 
 ![image](https://user-images.githubusercontent.com/64305836/170579362-ad3b5a4b-6379-4c59-834d-8ee9942147de.png)
