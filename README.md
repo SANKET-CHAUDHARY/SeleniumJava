@@ -5,7 +5,7 @@ Please find basic task assigment and Test Plan document in SeleniumJava folder
 ![image](https://user-images.githubusercontent.com/64305836/170655437-865b46e2-7232-42ed-b857-4a125bd44a14.png)
 
 
-project structure :
+**project structure :**
 
 ![image](https://user-images.githubusercontent.com/64305836/170572980-bcc4dc03-9225-45fb-900d-71b392b8159e.png)
 ![image](https://user-images.githubusercontent.com/64305836/170573036-e03b236c-3f97-4d99-8afb-24b4309d4b5f.png)
