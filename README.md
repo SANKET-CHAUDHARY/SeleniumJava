@@ -2,6 +2,7 @@
 Selenium java framwork 
 
 Please find basic task assigment and Test Plan document in SeleniumJava folder 
+![image](https://user-images.githubusercontent.com/64305836/170655437-865b46e2-7232-42ed-b857-4a125bd44a14.png)
 
 
 project structure :
